@@ -208,4 +208,34 @@ pre {
 .btn-modal {
   cursor: pointer; }
 
+.preverde {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 13px;
+  font-weight: 300;
+  margin: 0;
+  overflow: auto;
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  word-break: break-all;
+  padding: 0px;
+  padding-top: 20px;
+  background-color: #DBFFDB;
+  border: 0px; }
+
+.prerojo {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 13px;
+  font-weight: 300;
+  margin: 0;
+  overflow: auto;
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  word-break: break-all;
+  padding: 0px;
+  padding-top: 20px;
+  background-color: #FFDDDD;
+  border: 0px; }
+
 /*# sourceMappingURL=style.css.map */
