@@ -67,6 +67,17 @@ nav {
 .navbar-inverse .navbar-nav > li > a {
   color: #bdbdbd; }
 
+@media only screen and (max-width: 1200px) {
+  aside {
+    display: none; }
+
+  .col-lg-9 {
+    padding-left: 25px;
+    padding-right: 25px; }
+
+  nav {
+    padding-left: 30px;
+    padding-right: 30px; } }
 aside {
   position: fixed;
   padding-top: 30px;
@@ -78,10 +89,6 @@ main {
   padding-bottom: 40px;
   text-align: justify;
   font-size: 1.6rem; }
-
-.col-lg-9 {
-  padding-left: 60px;
-  padding-right: 120px; }
 
 .panel-body {
   padding-top: 0px; }
@@ -103,7 +110,7 @@ main {
           font-weight: 600; }
 
 .panel-group {
-  padding-left: 80px;
+  padding-left: 6%;
   position: fixed; }
 
 .panel-title {
